@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-mod-certificate",
+    "type": "moodle-mod",
+    "description": "Activity Plugin",
+    "extra": {
+        "installer-name": "certificate",
+        "moodle": { "package_folder_name" : "certificate" }
+    }
