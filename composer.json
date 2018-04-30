@@ -1,4 +1,3 @@
-
 {
     "name": "embanet-compass/moodle-mod-certificate",
     "type": "moodle-mod",
@@ -7,3 +6,4 @@
         "installer-name": "certificate",
         "moodle": { "package_folder_name" : "certificate" }
     }
+}
